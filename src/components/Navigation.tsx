@@ -71,7 +71,7 @@ export function Navigation() {
                     {/* Desktop CTA */}
                     <div className="hidden md:flex items-center gap-4">
                         <a
-                            href="#"
+                            href="https://dashboard.shadowkey.org/login"
                             className="text-text-muted hover:text-white text-sm font-medium transition-colors duration-300"
                         >
                             Log In
@@ -122,7 +122,7 @@ export function Navigation() {
                             </a>
                         ))}
                         <hr className="border-glass-border" />
-                        <a href="#" className="text-text-muted hover:text-white text-base font-medium">
+                        <a href="https://dashboard.shadowkey.org/login" className="text-text-muted hover:text-white text-base font-medium">
                             Log In
                         </a>
                         <a
