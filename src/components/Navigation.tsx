@@ -21,7 +21,7 @@ export function Navigation() {
         { name: 'How It Works', href: '#how-it-works' },
         { name: 'Features', href: '#features' },
         { name: 'Security', href: '#security' },
-        { name: 'Docs', href: '/docs' },
+        { name: 'Docs', href: 'https://app.shadowkey.org/docs' },
     ];
 
     return (
